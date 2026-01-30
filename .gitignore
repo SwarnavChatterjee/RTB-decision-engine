@@ -1,0 +1,33 @@
+# Build artifacts
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (do not commit raw datasets)
+data/raw/
+data/processed/
+
+# Logs
+*.log
